@@ -1,2 +1,3 @@
 # first_repo
-hello
+
+This is a dummy repository for first Github submission
